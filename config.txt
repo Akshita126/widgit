@@ -1,4 +1,5 @@
 new file for pull 
 add changes on local
 same changes on local and remote. this is local
+same changes on local and remote. this is remote
 modify after adding feature3
